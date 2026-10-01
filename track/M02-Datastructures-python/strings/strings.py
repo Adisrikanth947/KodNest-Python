@@ -13,3 +13,13 @@ print(s)
 
 strs = "My name is \"Srikanta\" from \'banglore\' studying in \'''Kodnest\'''!"
 print(strs)
+
+
+
+a= "jadal"
+b="zamana"
+c=a+" "+b
+print(c)
+
+print(len("jadal"))
+
