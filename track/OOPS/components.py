@@ -20,6 +20,7 @@ class Student:
 
 s1 = Student("rahul", 20, "kodnest")
 s1.study()
+s1.trip()
 s1.getDetails()
 
 print("\n")
@@ -27,4 +28,5 @@ print("\n")
 s2 = Student("Srikanth", 22, "Kodnest")
 print(s2.name)
 s2.study()
+s2.trip()
 s2.getDetails()
